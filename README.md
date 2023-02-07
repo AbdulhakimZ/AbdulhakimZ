@@ -1,10 +1,11 @@
 ### Hi there 👋 
-### Most of my repos are private 🔒
 
 <!--
 **AbdulhakimZ/AbdulhakimZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hello! Welcome to my GitHub! 🚀🚀
+
+### Most of my repos are private 🔒
 
 <p align="center"> 
   Visitors Count<br>
