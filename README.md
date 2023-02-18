@@ -25,8 +25,8 @@ independent projects, as well as collaborate as part of a productive team.
 * [StackOverflow](https://stackoverflow.com/)
 * [Blog](https://easycodesolution.com/)
 
-![Abdulhakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulhakimZ&theme=gruvbox)
+<!--![Abdulhakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulhakimZ&theme=gruvbox)-->
 
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulhakimZ&theme=github_dark)-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulhakimZ&theme=github_dark)
 
 
