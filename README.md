@@ -1,8 +1,5 @@
 ### Hi there 👋 
 
-<!--
-**AbdulhakimZ/AbdulhakimZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 # Hello! Welcome to my GitHub! 🚀🚀
 
 ### Most of my repos are private 🔒
@@ -30,6 +27,6 @@ independent projects, as well as collaborate as part of a productive team.
 
 ![Abdulhakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulhakimZ&theme=gruvbox)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulhakimZ&theme=github_dark)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulhakimZ&theme=github_dark)-->
 
 
