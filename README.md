@@ -10,10 +10,11 @@
 </p>
 
 ## 🙋‍♂️ Self Introduction
-My name is Abdulhakim, I'm an Experienced ASP.NET developer with thorough hands-on experience. Equipped with a diverse and promising skill-set. More than 3+
-years of experience in ASP.NET CORE . Also I'm proficient in Reactjs, jQuery, AJAX, SQL SERVER, Database Design, IIS SERVER, GitHub. Highly
-familiar with several object-oriented design patterns such as Model View Controller (MVC) frameworks. Able to effectively self-manage during
-independent projects, as well as collaborate as part of a productive team.
+I am a skilled ASP.NET developer with 3+ years of experience in ASP.NET Core. In addition to my primary skill ASP.NET, I also have in-depth knowledge of other related technologies, including React, jQuery, AJAX, RESTful API, MSSQL Server, Database Design, IIS Server, and GitHub. Also I have <6 months of experience working with Angular, Flutter, and Laravel. 
+I am also proficient in several object-oriented(OOP) design patterns, including Model View Controller (MVC) frameworks. In addition to these, 
+I am a fast learner and can quickly adapt to new technologies. I'm capable of effectively manage independent projects and work collaboratively in a team environment. 
+I have experience working in a fast-paced business environment, and I am committed to delivering high-quality results for any project I undertake.
+
 <br />
 <!--Exp-->
 ## 📞 Contact Me
