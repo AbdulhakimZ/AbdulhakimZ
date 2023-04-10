@@ -15,8 +15,7 @@ I am also proficient in several object-oriented(OOP) design patterns, including 
 I am a fast learner and can quickly adapt to new technologies. I'm capable of effectively manage independent projects and work collaboratively in a team environment. 
 I have experience working in a fast-paced business environment, and I am committed to delivering high-quality results for any project I undertake.
 
-<br />
-<!--Exp-->
+
 ## 📞 Contact Me
 * [Email](mailto:zluckyza@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/abdulhakim-zeinu-536341183/)
