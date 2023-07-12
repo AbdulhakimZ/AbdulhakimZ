@@ -1,4 +1,4 @@
-[Abdulhakim's Resume (1).pdf](https://github.com/AbdulhakimZ/AbdulhakimZ/files/12028848/Abdulhakim.s.Resume.1.pdf)### Hi there 👋 
+### Hi there 👋 
 
 # Hello! Welcome to my GitHub! 🚀🚀
 
