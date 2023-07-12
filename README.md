@@ -1,4 +1,4 @@
-### Hi there 👋 
+[Abdulhakim's Resume (1).pdf](https://github.com/AbdulhakimZ/AbdulhakimZ/files/12028848/Abdulhakim.s.Resume.1.pdf)### Hi there 👋 
 
 # Hello! Welcome to my GitHub! 🚀🚀
 
@@ -10,10 +10,7 @@
 </p>
 
 ## 🙋‍♂️ Self Introduction
-I am a skilled ASP.NET developer with 3+ years of experience in ASP.NET Core. In addition to my primary skill ASP.NET, I also have in-depth knowledge of other related technologies, including React, jQuery, AJAX, RESTful API, MSSQL Server, Database Design, IIS Server, and GitHub. Also I have <6 months of experience working with Angular, Flutter, and Laravel. 
-I am also proficient in several object-oriented(OOP) design patterns, including Model View Controller (MVC) frameworks. In addition to these, 
-I am a fast learner and can quickly adapt to new technologies. I'm capable of effectively manage independent projects and work collaboratively in a team environment. 
-I have experience working in a fast-paced business environment, and I am committed to delivering high-quality results for any project I undertake.
+Experienced ASP.NET Core Developer with over 3.9+ years of hands-on experience in designing, developing, and maintaining robust web applications. I Possess a strong understanding of front-end technologies such as HTML5, CSS, jQuery, AJAX, React, Angular, as well as proficiency in backend technologies like C#, .NET Core, IIS Server, SQL Server NodeJS and MongoDB. Also, I have a reasonable ammount of experience working with Flutter and Laravel. I am proficient in several object-oriented(OOP) design patterns, including Model View Controller (MVC) frameworks. I'am a fast learner and can quickly adapt to new technologies. I'm capable of effectively manage independent projects and work collaboratively in a team environment. I have experience working in a fast-paced business environment, and I am committed to delivering high-quality results for any project I undertake.
 
 
 ## 📞 Contact Me
